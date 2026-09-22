@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": "n1",
+      "cat": "femmes",
+      "name": "Ensemble tunique & pantalon violet",
+      "desc": "Ensemble 2 pieces - tunique kaftan violette et pantalon bleu marine fluide assorti",
+      "price": 8000,
+      "photo": "/images/products/n1.jpg",
+      "order": 1
+    },
+    {
+      "id": "n2",
+      "cat": "femmes",
+      "name": "Ensemble chemise & pantalon moutarde",
+      "desc": "Ensemble 2 pieces - chemise oversize et pantalon large jaune moutarde",
+      "price": 5000,
+      "photo": "/images/products/n2.jpg",
+      "order": 2
+    },
+    {
+      "id": "n3",
+      "cat": "femmes",
+      "name": "Ensemble kimono imprime terracotta",
+      "desc": "Ensemble 2 pieces - kimono long et pantalon fluide imprime terracotta et blanc",
+      "price": 6000,
+      "photo": "/images/products/n3.jpg",
+      "order": 3
+    },
+    {
+      "id": "n4",
+      "cat": "femmes",
+      "name": "Ensemble chemise imprime palmiers",
+      "desc": "Ensemble 2 pieces - chemise et pantalon imprime palmiers beige et rouge",
+      "price": 6000,
+      "photo": "/images/products/n4.jpg",
+      "order": 4
+    },
+    {
+      "id": "n5",
+      "cat": "femmes",
+      "name": "Robe bicolore bleu nuit",
+      "desc": "Robe longue evasee bicolore, haut bleu marine et jupe bleu ciel fluide",
+      "price": 5500,
+      "photo": "/images/products/n5.jpg",
+      "order": 5
+    },
+    {
+      "id": "n6",
+      "cat": "femmes",
+      "name": "Pantalon large vert",
+      "desc": "Pantalon large taille haute en lin vert, coupe fluide",
+      "price": 2500,
+      "photo": "/images/products/n6.jpg",
+      "order": 6
+    },
+    {
+      "id": "n7",
+      "cat": "femmes",
+      "name": "Robe longue tie-dye noire",
+      "desc": "Robe longue sans manches a col chemise, imprime tie-dye noir, bleu et beige",
+      "price": 6000,
+      "photo": "/images/products/n7.jpg",
+      "order": 7
+    },
+    {
+      "id": "n8",
+      "cat": "enfants",
+      "name": "Ensemble chemise & jupe fleurie",
+      "desc": "Ensemble 2 pieces enfant - chemise nouee et jupe longue fleurie creme",
+      "price": 3000,
+      "photo": "/images/products/n8.jpg",
+      "order": 8
+    },
+    {
+      "id": "n9",
+      "cat": "enfants",
+      "name": "Robe a volants peche",
+      "desc": "Robe de ceremonie enfant, plissee a volants fleuris peche",
+      "price": 5000,
+      "photo": "/images/products/n9.jpg",
+      "order": 9
+    },
+    {
+      "id": "n10",
+      "cat": "enfants",
+      "name": "Robe rose avec sac assorti",
+      "desc": "Robe enfant rose a volants avec sac bandouliere assorti",
+      "price": 5000,
+      "photo": "/images/products/n10.jpg",
+      "order": 10
+    },
+    {
+      "id": "n11",
+      "cat": "enfants",
+      "name": "Robe fleurie blanche & rouge",
+      "desc": "Robe enfant plissee fleurie blanche a ceinture rouge",
+      "price": 3500,
+      "photo": "/images/products/n11.jpg",
+      "order": 11
+    },
+    {
+      "id": "n12",
+      "cat": "enfants",
+      "name": "Robe chasuble blanche & marron",
+      "desc": "Robe enfant chasuble blanche avec bretelles marron et sac assorti",
+      "price": 3500,
+      "photo": "/images/products/n12.jpg",
+      "order": 12
+    },
+    {
+      "id": "n13",
+      "cat": "enfants",
+      "name": "Robe rose a perles",
+      "desc": "Robe enfant rose boutonnee avec details perles et petit sac",
+      "price": 3500,
+      "photo": "/images/products/n13.jpg",
+      "order": 13
+    },
+    {
+      "id": "n14",
+      "cat": "enfants",
+      "name": "Robe cache-coeur orange",
+      "desc": "Robe enfant cache-coeur orange a volants et noeud",
+      "price": 3500,
+      "photo": "/images/products/n14.jpg",
+      "order": 14
+    },
+    {
+      "id": "n15",
+      "cat": "femmes",
+      "name": "Robe tunique orange a pan imprime",
+      "desc": "Robe longue orange a pan ouvert laissant apparaitre un imprime graphique noir et blanc",
+      "price": 5500,
+      "photo": "/images/products/n15.jpg",
+      "order": 15
+    },
+    {
+      "id": "n16",
+      "cat": "femmes",
+      "name": "Ensemble blazer & pantalon rouille",
+      "desc": "Ensemble 2 pieces - blazer long et pantalon large rouille, coupe fluide",
+      "price": 5000,
+      "photo": "/images/products/n16.jpg",
+      "order": 16
+    },
+    {
+      "id": "n17",
+      "cat": "femmes",
+      "name": "Ensemble top asymetrique bleu roi",
+      "desc": "Ensemble 2 pieces - top ample asymetrique bleu roi et pantalon large blanc",
+      "price": 6000,
+      "photo": "/images/products/n17.jpg",
+      "order": 17
+    },
+    {
+      "id": "n18",
+      "cat": "femmes",
+      "name": "Robe longue bicolore marine & peche",
+      "desc": "Robe longue boutonnee bicolore, marine et peche, avec ceinture assortie",
+      "price": 6500,
+      "photo": "/images/products/n18.jpg",
+      "order": 18
+    },
+    {
+      "id": "n19",
+      "cat": "femmes",
+      "name": "Robe a volants bleu roi",
+      "desc": "Robe longue bleu roi avec manches evasees a volants",
+      "price": 5500,
+      "photo": "/images/products/n19.jpg",
+      "order": 19
+    },
+    {
+      "id": "n20",
+      "cat": "femmes",
+      "name": "Robe cannelle a manches volantees",
+      "desc": "Robe longue cannelle avec manches longues a volants et ceinture nouee",
+      "price": 6500,
+      "photo": "/images/products/n20.jpg",
+      "order": 20
+    }
+  ]
+}
